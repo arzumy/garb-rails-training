@@ -1,0 +1,401 @@
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-10-12 14:33:34) [GET]
+
+SyntaxError (/Volumes/Work/tzuming-analytics/app/controllers/home_controller.rb:3: syntax error, unexpected tASSOC, expecting kEND
+    render => "Hello world"
+             ^):
+  
+
+Rendered rescues/_trace (30.7ms)
+Rendered rescues/_request_and_response (1.1ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 14:33:43) [GET]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 14:35:01) [GET]
+
+ActionView::MissingTemplate (Missing template home/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 14:35:24) [GET]
+Rendering home/index
+Completed in 140ms (View: 138, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 14:35:28) [GET]
+Rendering home/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 14:37:30) [GET]
+Rendering home/index
+Completed in 8ms (View: 7 | 200 OK [http://localhost/]
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:19:03) [GET]
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+Rendering home/index
+Completed in 4331ms (View: 7 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:20:11) [GET]
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+Rendering home/index
+Completed in 4089ms (View: 4 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:21:48) [GET]
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+Rendering home/index
+Completed in 3375ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:23:06) [GET]
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+Rendering home/index
+Completed in 3795ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:25:32) [GET]
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+Rendering home/index
+Completed in 6784ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:27:00) [GET]
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+Rendering home/index
+Completed in 3896ms (View: 1 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:27:12) [GET]
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+
+NoMethodError (undefined method `desc' for #<Garb::ReportParameter:0x10302e0a0 @elements=[], @name=:sort>):
+  app/controllers/home_controller.rb:16:in `index'
+
+Rendered rescues/_trace (27.3ms)
+Rendered rescues/_request_and_response (1.2ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:28:48) [GET]
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+
+Garb::DataRequest::ClientError ("<errors xmlns='http://schemas.google.com/g/2005'>\n<error>\n<domain>GData</domain>\n<code>InvalidRequestUriException</code>\n<internalReason>Sort key ga:desc is not a dimension or metric in this query.</internalReason>\n</error>\n</errors>\n"):
+  garb (0.8.4) lib/garb/data_request.rb:27:in `send_request'
+  garb (0.8.4) lib/garb/resource.rb:111:in `send_request_for_body'
+  garb (0.8.4) lib/garb/report.rb:24:in `results'
+  app/controllers/home_controller.rb:19:in `index'
+
+Rendered rescues/_trace (28.6ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:30:31) [GET]
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+
+Garb::DataRequest::ClientError ("<errors xmlns='http://schemas.google.com/g/2005'>\n<error>\n<domain>GData</domain>\n<code>InvalidRequestUriException</code>\n<internalReason>Sort key ga:descpageviews is not a dimension or metric in this query.</internalReason>\n</error>\n</errors>\n"):
+  garb (0.8.4) lib/garb/data_request.rb:27:in `send_request'
+  garb (0.8.4) lib/garb/resource.rb:111:in `send_request_for_body'
+  garb (0.8.4) lib/garb/report.rb:24:in `results'
+  app/controllers/home_controller.rb:19:in `index'
+
+Rendered rescues/_trace (29.0ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:30:50) [GET]
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+
+NoMethodError (undefined method `desc' for #<Garb::Report:0x1021c63f0>):
+  app/controllers/home_controller.rb:16:in `index'
+
+Rendered rescues/_trace (107.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:33:19) [GET]
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+
+Garb::DataRequest::ClientError ("<errors xmlns='http://schemas.google.com/g/2005'>\n<error>\n<domain>GData</domain>\n<code>InvalidRequestUriException</code>\n<internalReason>Sort key ga:pageviewsdesc is not a dimension or metric in this query.</internalReason>\n</error>\n</errors>\n"):
+  garb (0.8.4) lib/garb/data_request.rb:27:in `send_request'
+  garb (0.8.4) lib/garb/resource.rb:111:in `send_request_for_body'
+  garb (0.8.4) lib/garb/report.rb:24:in `results'
+  app/controllers/home_controller.rb:19:in `index'
+
+Rendered rescues/_trace (28.6ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:34:24) [GET]
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+
+Garb::DataRequest::ClientError ("<errors xmlns='http://schemas.google.com/g/2005'>\n<error>\n<domain>GData</domain>\n<code>invalidParameterValue</code>\n<internalReason>Invalid value for sort parameter: ga:-ga:pageviews</internalReason>\n</error>\n</errors>\n"):
+  garb (0.8.4) lib/garb/data_request.rb:27:in `send_request'
+  garb (0.8.4) lib/garb/resource.rb:111:in `send_request_for_body'
+  garb (0.8.4) lib/garb/report.rb:24:in `results'
+  app/controllers/home_controller.rb:19:in `index'
+
+Rendered rescues/_trace (106.4ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:34:42) [GET]
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+
+Garb::DataRequest::ClientError ("<errors xmlns='http://schemas.google.com/g/2005'>\n<error>\n<domain>GData</domain>\n<code>invalidParameterValue</code>\n<internalReason>Invalid value for sort parameter: ga:-pageviews</internalReason>\n</error>\n</errors>\n"):
+  garb (0.8.4) lib/garb/data_request.rb:27:in `send_request'
+  garb (0.8.4) lib/garb/resource.rb:111:in `send_request_for_body'
+  garb (0.8.4) lib/garb/report.rb:24:in `results'
+  app/controllers/home_controller.rb:19:in `index'
+
+Rendered rescues/_trace (29.0ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:38:01) [GET]
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+Rendering home/index
+Completed in 9527ms (View: 1 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:38:12) [GET]
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+Rendering home/index
+Completed in 3676ms (View: 1 | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-10-12 15:40:22) [GET]
+
+ActionController::RoutingError (No route matches "/test" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#test (for 127.0.0.1 at 2010-10-12 15:40:49) [GET]
+
+ActionView::MissingTemplate (Missing template home/test.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#test (for 127.0.0.1 at 2010-10-12 15:41:10) [GET]
+Rendering template within layouts/application
+Rendering home/test
+Completed in 12ms (View: 9 | 200 OK [http://localhost/test]
+
+
+Processing HomeController#test (for 127.0.0.1 at 2010-10-12 15:41:13) [GET]
+Rendering template within layouts/application
+Rendering home/test
+Completed in 2ms (View: 1 | 200 OK [http://localhost/test]
+
+
+Processing HomeController#test (for 127.0.0.1 at 2010-10-12 15:43:54) [GET]
+Rendering template within layouts/home
+Rendering home/test
+Completed in 6ms (View: 4 | 200 OK [http://localhost/test]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:43:58) [GET]
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+Rendering template within layouts/home
+Rendering home/index
+Completed in 4234ms (View: 1 | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:44:05) [GET]
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+Rendering template within layouts/home
+Rendering home/index
+Completed in 4092ms (View: 1 | 200 OK [http://localhost/]
+
+
+Processing HomeController#test (for 127.0.0.1 at 2010-10-12 15:44:52) [GET]
+
+NoMethodError (undefined method `layout' for #<HomeController:0x1037c0b60>):
+  app/controllers/home_controller.rb:23:in `test'
+
+Rendered rescues/_trace (28.3ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#test (for 127.0.0.1 at 2010-10-12 15:45:05) [GET]
+Rendering template within layouts/application
+Rendering home/test
+Completed in 5ms (View: 1 | 200 OK [http://localhost/test]
+
+
+Processing HomeController#test (for 127.0.0.1 at 2010-10-12 15:45:07) [GET]
+Rendering template within layouts/application
+Rendering home/test
+Completed in 3ms (View: 1 | 200 OK [http://localhost/test]
+
+
+Processing HomeController#test (for 127.0.0.1 at 2010-10-12 15:51:33) [GET]
+Rendering template within layouts/home
+Rendering home/test
+Completed in 3ms (View: 1 | 200 OK [http://localhost/new]
+
+
+Processing HomeController#test (for 127.0.0.1 at 2010-10-12 15:51:48) [GET]
+Rendering template within layouts/application
+Rendering home/test
+Completed in 5ms (View: 1 | 200 OK [http://localhost/new]
+
+
+Processing HomeController#test (for 127.0.0.1 at 2010-10-12 15:51:49) [GET]
+Rendering template within layouts/application
+Rendering home/test
+Completed in 3ms (View: 1 | 200 OK [http://localhost/new]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-10-12 15:52:19) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Completed in 6ms (View: 5 | 200 OK [http://localhost/new]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:52:24) [POST]
+  Parameters: {"username"=>"asd", "password"=>""}
+
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  
+
+Rendered rescues/_trace (110.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (unprocessable_entity)
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-10-12 15:52:34) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Completed in 6ms (View: 4 | 200 OK [http://localhost/new]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-10-12 15:52:35) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Completed in 4ms (View: 1 | 200 OK [http://localhost/new]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:52:37) [GET]
+  Parameters: {"username"=>"", "password"=>""}
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+Rendering template within layouts/application
+Rendering home/index
+Completed in 4675ms (View: 1 | 200 OK [http://localhost/?username=&password=&password=]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-10-12 15:53:47) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Completed in 6ms (View: 4 | 200 OK [http://localhost/new]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-10-12 15:53:50) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Completed in 3ms (View: 1 | 200 OK [http://localhost/new]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:54:07) [GET]
+  Parameters: {"profile"=>"UA-769543-20", "username"=>"suffwind", "password"=>"hentam123"}
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+Rendering template within layouts/application
+Rendering home/index
+Completed in 4831ms (View: 1 | 200 OK [http://localhost/?username=suffwind&password=hentam123&profile=UA-769543-20]
+
+
+Processing HomeController#new (for 127.0.0.1 at 2010-10-12 15:54:24) [GET]
+Rendering template within layouts/application
+Rendering home/new
+Completed in 2ms (View: 1 | 200 OK [http://localhost/new]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:54:32) [GET]
+  Parameters: {"profile"=>"UA-769543-24", "username"=>"suffwind", "password"=>"hentam123"}
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+Rendering template within layouts/application
+Rendering home/index
+Completed in 3889ms (View: 1 | 200 OK [http://localhost/?username=suffwind&password=hentam123&profile=UA-769543-24]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-10-12 15:55:04) [GET]
+  Parameters: {"profile"=>"UA-769543-24", "username"=>"suffwind", "password"=>"hentam123"}
+DEPRECATION WARNING: Garb::Profile.first is deprecated in favor of Garb::Management::WebProperty. (called from first at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:29)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: The use of Report will be removed in favor of 'extend Garb::Model'. (called from initialize at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/report.rb:9)
+Rendering template within layouts/application
+Rendering home/index
+Completed in 7338ms (View: 1 | 200 OK [http://localhost/?username=suffwind&password=hentam123&profile=UA-769543-24]
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)
+DEPRECATION WARNING: Garb::Profile.all is deprecated in favor of Garb::Management::Profile.all. (called from all at /Library/Ruby/Gems/1.8/gems/garb-0.8.4/lib/garb/profile.rb:24)

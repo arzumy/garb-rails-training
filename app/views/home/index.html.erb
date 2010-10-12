@@ -1,0 +1,14 @@
+<table>
+  <tr>
+    <td>page_path</td>
+    <td>pageviews</td>
+    <td>exits</td>
+  </tr>
+  <% @result.each do |report| %>
+    <tr>
+      <td><%= report.page_path %></td>
+      <td><%= report.pageviews %></td>
+      <td><%= report.exits %></td>
+    </tr>
+  <% end %>
+</table>
